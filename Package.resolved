@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Amplitude",
+        "repositoryURL": "https://github.com/amplitude/Amplitude-iOS",
+        "state": {
+          "branch": null,
+          "revision": "876f685f78097e1df31d6ba2a7754176fcaa65e5",
+          "version": "4.9.3"
+        }
+      },
+      {
+        "package": "Analytics",
+        "repositoryURL": "https://github.com/Polarrco/analytics-ios",
+        "state": {
+          "branch": "master",
+          "revision": "6f657103b2763c292fadfc9415b2489581f0b4cd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
